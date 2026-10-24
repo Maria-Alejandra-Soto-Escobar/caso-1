@@ -1,5 +1,5 @@
 # caso-1
-Análisis descriptivo del rendimiento de jugadores de fútbol usando R y un dataset de FIFA World Cup 2026.
+Análisis descriptivo de la posición, valor de mercado y rendimiento futbolístico de jugadores de fútbol usando R y un dataset de FIFA World Cup 2026.
 
 Este proyecto presenta un análisis estadístico descriptivo de jugadores de fútbol utilizando R y el conjunto de datos FIFA World Cup 2026 Player Performance Dataset.
 
