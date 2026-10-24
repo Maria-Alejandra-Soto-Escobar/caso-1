@@ -7,14 +7,14 @@ El análisis incluye:
 
 - Exploración y limpieza de los datos.
 - Caracterización de los jugadores según posición y edad.
-- Análisis de goles y asistencias según la posición.
-- Relación entre minutos jugados y calificación.
-- Relación entre valor de mercado y rendimiento.
+- Comparación del valor de mercado según la posición.
+- Análisis de goles y asistencias.
+- Comparación de la calificación promedio de los jugadores según la posición.
+- Análisis de la relación entre valor de mercado y rendimiento promedio.
 - Elaboración de gráficos y medidas estadísticas para interpretar los resultados.
 
 ## Herramientas
 
-- R
 - RStudio
 - ggplot2
 - dplyr
